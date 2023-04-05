@@ -1,0 +1,11 @@
+2023-03-31 15:20:14,944 - INFO - ====== WebDriver manager ======
+2023-03-31 15:20:14,969 - INFO - Get LATEST chromedriver version for google-chrome 110.0.5481
+2023-03-31 15:20:15,265 - INFO - Driver [/home/team/.wdm/drivers/chromedriver/linux64/110.0.5481/chromedriver] found in cache
+2023-03-31 15:20:16,054 - INFO - ******************Test_001_Login****************
+2023-03-31 15:20:16,054 - INFO - ******************Verifying Home Page Title****************
+2023-03-31 15:20:17,638 - INFO - *****************Home Page title test is passed****************
+2023-03-31 15:20:17,640 - INFO - ====== WebDriver manager ======
+2023-03-31 15:20:17,684 - INFO - Get LATEST chromedriver version for google-chrome 110.0.5481
+2023-03-31 15:20:17,828 - INFO - Driver [/home/team/.wdm/drivers/chromedriver/linux64/110.0.5481/chromedriver] found in cache
+2023-03-31 15:20:18,596 - INFO - ****************Login Test started****************
+2023-03-31 15:20:27,325 - INFO - ******************Login Test Passed****************
